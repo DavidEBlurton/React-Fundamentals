@@ -1,0 +1,22 @@
+.header {
+    background-image: url('images/annie-spratt-6Aj3eKsng8c-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    position: relative;
+  }
+  
+  .overlay {
+    background-color: rgba(0, 0, 0, 0.5); 
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  h1 {
+    font-size: 3rem;
+  }
+  
